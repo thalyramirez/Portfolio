@@ -1,3 +1,8 @@
+/*This project 🚀 analyzed the H1-B visa application process to empower stakeholders with data-driven insights for strategic workforce planning and policy evaluation.
+By transforming raw public data into actionable findings through SQL, Power Query, and advanced analytics,
+the project provided a comprehensive overview of hiring trends and success probabilities within the U.S. immigration system.
+*/
+
 USE h1b_visa;
  
 #states with more certified sponsorship opportunities AND salaries
